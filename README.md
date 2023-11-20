@@ -109,7 +109,7 @@ To do this, go to https://events360.herokuapp.com/users and login as the admin u
 
 3. After create the application, you will get an **UID** and **Secret** Token
 
-4. Add thoses variable to the deployed app's Config Vars:
+4. Add thoses variable to the deployed app's Config Vars on Heroku:
 <img width="809" alt="Screenshot 2023-11-20 at 9 23 22 AM" src="https://github.com/CSCE-606-Event360/Fall2023-PlaNXT/assets/32810188/253341d8-1e05-4469-ac40-5dfe072071bf">
 
 ## Contacts
